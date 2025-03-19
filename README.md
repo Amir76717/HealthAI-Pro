@@ -44,7 +44,7 @@ HealthAI Pro revolutionizes the healthcare experience by leveraging cutting-edge
 - **Monitoring:** Utilize Azure Monitor & Application Insights for comprehensive application analytics.
 
 ## 📋 Installation and Setup
-**Setting Up the Backend:**
+### Setting Up the Backend:
 
 1. Clone the repository:
 
@@ -64,8 +64,7 @@ HealthAI Pro revolutionizes the healthcare experience by leveraging cutting-edge
 
         python manage.py runserver
 
-
-**Setting Up the Frontend:**
+### Setting Up the Frontend:
 
 1. Navigate to the client directory:
 
