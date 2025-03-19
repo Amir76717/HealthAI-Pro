@@ -64,6 +64,7 @@ HealthAI Pro revolutionizes the healthcare experience by leveraging cutting-edge
 
         python manage.py runserver
 
+
 **Setting Up the Frontend:**
 
 1. Navigate to the client directory:
